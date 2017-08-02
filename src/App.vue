@@ -1,6 +1,6 @@
 <template lang="pug">
   #app.container
-    img(src='./assets/logo.png')
+    img(src='https://israeldcastro.github.io/Blaster-Music/dist/logo.png')
     h1 BlasterMusic
     .form-group.row.justify-content-md-center
       select.form-control.col-4(v-model="selectCountry")
